@@ -1,3 +1,9 @@
+/*
+Problem: https://open.kattis.com/problems/server
+Author: Cian Kehoe
+Submitted: July 1st, 2020
+ */
+
 #include <stdio.h>
 
 int main() {

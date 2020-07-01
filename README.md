@@ -8,3 +8,4 @@ A collection of my solutions to Kattis problems.
 ### Implementations in:
 - Python
 - C
+- Go
